@@ -1,0 +1,8 @@
+{
+    "resolution": "1600x900",
+    "fall_speed": "superfast",
+    "game_duration": 15,
+    "language": "chinese",
+    "keyboard_hint": true,
+    "music_volume": 60
+}
